@@ -14,7 +14,7 @@ array = []
 
   i = 0   
   while array.length 
-  if array[i] >
+  puts array.
   i += 1
 end
 end
