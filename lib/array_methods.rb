@@ -14,7 +14,7 @@ array = []
 
   i = 0   
   while array.length 
-  puts array.
+  puts array[i].max
   i += 1
 end
 end
