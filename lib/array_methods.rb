@@ -8,4 +8,3 @@ end
   return storage
 end
 
-find_element_index(scale,2)
