@@ -9,11 +9,11 @@ end
 end
 
 
-def find_max_value(array)
+def (array)
   counter = 0
-array = []
-while array[counter] do
-  puts array[counter].sort.last
-  counter += 1
-end
+ 
+  while array[counter] do
+    puts array[counter]
+    counter += 1
+  end
 end
