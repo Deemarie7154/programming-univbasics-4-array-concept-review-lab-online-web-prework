@@ -1,8 +1,8 @@
 def find_element_index(array, value_to_find)
-scale = []
+storage = []
 
   array.each do |i|
-  array[i] 
+  storage[i] 
 end
   
 end
