@@ -9,7 +9,7 @@ end
 end
 
 
-def (array)
+def find_max_v(array)
   counter = 0
  
   while array[counter] do
