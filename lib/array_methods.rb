@@ -3,7 +3,7 @@ array = []
 
   i = 0   
   while i < array.length 
-   p array[i].index(value_to_find)
+  return p array[i].index(value_to_find)
   i += 1
 end
 end
