@@ -10,11 +10,10 @@ end
 
 
 def find_max_value(array)
+  counter = 0
 array = []
-
-  i = 0   
-  while i < array.length 
-  p array[i].max(1)
-  i += 1
+while pets[counter] do
+  puts pets[counter]
+  counter += 1
 end
 end
