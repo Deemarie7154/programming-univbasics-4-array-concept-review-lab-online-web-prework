@@ -3,7 +3,7 @@ array = []
 
   i = 0   
   while i < array.length 
-   = 
+   
   puts storage.index(value_to_find)
 end
   return storage
