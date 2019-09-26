@@ -13,7 +13,7 @@ def find_max_value(array)
   counter = 0
 array = []
 while array[counter] do
-  puts array.sort.last
+  puts array[counter].sort.last
   counter += 1
 end
 end
