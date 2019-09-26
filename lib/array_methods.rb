@@ -1,7 +1,7 @@
 def find_element_index(array, value_to_find)
 array = []
 
-  array.each do |value_to_find|
+  array.each do |i|
   puts "T"
 end
   
