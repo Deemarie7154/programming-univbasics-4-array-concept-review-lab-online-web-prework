@@ -5,7 +5,7 @@ storage = []
   storage[i] = array[i]
   puts storage.index(value_to_find)
 end
-  
+  return storage
 end
 
 find_element_index(scale,2)
