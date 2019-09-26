@@ -3,7 +3,7 @@ storage = []
 
   array.each do |i|
   storage[i] = array[i]
-  puts .index       value_to_find
+  puts storage.index       value_to_find
 end
   
 end
