@@ -2,7 +2,7 @@ def find_element_index(array, value_to_find)
 storage = []
 
   array.each do |i|
-  storage[i] 
+  storage[i] = array[i]
 end
   
 end
