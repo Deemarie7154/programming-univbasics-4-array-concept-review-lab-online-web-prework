@@ -3,9 +3,8 @@ array = []
 
   i = 0   
   while i < array.length 
-   
-  puts storage.index(value_to_find)
+   puts array[i].index(value_to_find)
+  i += 1
 end
-  return storage
-end
+  
 
