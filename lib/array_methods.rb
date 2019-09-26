@@ -12,8 +12,8 @@ end
 def find_max_value(array)
   counter = 0
 array = []
-while pets[counter] do
-  puts pets[counter]
+while array[counter] do
+  puts array[counter].max()
   counter += 1
 end
 end
