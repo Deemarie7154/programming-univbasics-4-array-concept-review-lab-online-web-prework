@@ -9,3 +9,11 @@ end
 end
 
 def find_max_value(array)
+
+ counter = 0
+ 
+  while array[counter] do
+    p array.sort.last
+  break
+  end
+end
