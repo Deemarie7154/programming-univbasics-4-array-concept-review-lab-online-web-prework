@@ -6,5 +6,5 @@ array = []
    puts array[i].index(value_to_find)
   i += 1
 end
-  
+end
 
