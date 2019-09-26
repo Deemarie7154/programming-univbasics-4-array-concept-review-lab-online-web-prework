@@ -1,5 +1,5 @@
 def find_element_index(array, value_to_find)
-array = []
+scale = []
 
   array.each do |i|
   array[i] 
