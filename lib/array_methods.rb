@@ -3,7 +3,7 @@ array = []
 
   i = 0   
   while i < array.length 
-   puts array[i].index(value_to_find)
+   p array[i].index(value_to_find)
   i += 1
 end
 end
@@ -14,7 +14,7 @@ array = []
 
   i = 0   
   while i < array.length 
-  puts array[i].max(1)
+  p array[i].max(1)
   i += 1
 end
 end
